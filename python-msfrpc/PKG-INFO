@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: msfrpc
+Version: 0.1
+Summary: Python MSF-RPC Bindings
+Home-page: http://www.trustwave.com
+Author: Ryan Linn
+Author-email: RLinn@trustwave.com
+License: GPLv3
+Description: UNKNOWN
+Platform: UNKNOWN
