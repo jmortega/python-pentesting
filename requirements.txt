@@ -7,7 +7,7 @@ paramiko == 1.15.2
 pygeocoder == 1.2.5
 pygeoip == 0.3.2
 pythonwhois == 2.4.3
-requests == 2.10.0
+requests == 2.20.0
 scapy == 2.3.1
 selenium == 2.53.1
 setuptools == 19.2
