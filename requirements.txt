@@ -3,7 +3,7 @@ ipwhois == 0.11.0
 lxml == 3.4.4
 mechanize == 0.2.5
 python_nmap == 0.4.3
-paramiko == 1.15.2
+paramiko == 2.10.1
 pygeocoder == 1.2.5
 pygeoip == 0.3.2
 pythonwhois == 2.4.3
